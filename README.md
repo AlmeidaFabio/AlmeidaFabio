@@ -3,7 +3,6 @@
 
 - 🔭 Currently I don't work in development, I got to know this wonderful world of programming late.
 - 🌱 I've been studying a lot and I already have a good knowledge of HTML5, CSS3, Javascript and PHP.
-
 I am currently studying NodeJs and ReactJs.
 - 📫 How to reach me: https://www.linkedin.com/in/almeidafabioo/
 
