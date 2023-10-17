@@ -1,23 +1,8 @@
 ### Hi there 👋
 ## I'm Fábio Almeida
 
-- 🔭 Currently I don't work in development, I got to know this wonderful world of programming late.
-- 🌱 I've been studying a lot and I already have a good knowledge of HTML5, CSS3, Javascript and PHP.
-I am currently studying NodeJs and ReactJs.
+- 🔭 Graduated in Systems Analysis and Development, from Estácio College, I discovered this wonderful world of programming late and fell completely in love.
+- 🌱 I have solid knowledge of HTML, CSS, JavaScript and their technologies and frameworks such as ReactJs, NodeJs, Next.js and Typescript, with the ability to create simple and effective solutions. I understand the fundamental concepts of databases and have practical knowledge of SQL for data manipulation.
+- 👯 I'm always willing to learn from others. I work well in a team and am open to feedback to constantly improve.
+- ⚡ Fun fact: I like watching movies and series, I'm passionate about the manga One Piece, I run and do a little bodybuilding to try to stay healthy 😄.
 - 📫 How to reach me: https://www.linkedin.com/in/almeidafabioo/
-
-<!--
-**AlmeidaFabio/AlmeidaFabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Currently I don't work in development, I got to know this wonderful world of programming late.
-- 🌱 I've been studying a lot and I already have a good knowledge of HTML5, CSS3, Javascript and PHP.
-I am currently studying NodeJs and ReactJs.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/almeidafabioo/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
